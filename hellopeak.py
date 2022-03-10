@@ -1,1 +1,1 @@
-print("Hello Peak!")
+print('Hello, world!')
